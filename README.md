@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Lalit Patel
 
-<!--
-**lalitondigital/lalitondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Lalit On Digital**.
 
-Here are some ideas to get you started:
+I help businesses increase their visibility across **Google Search** and **AI-powered search experiences** through Technical SEO, Local SEO, GEO (Generative Engine Optimization), AI SEO, and AI-driven marketing automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------
+
+## 🚀 What I'm Building
+
+- AI SEO Frameworks
+- GEO (Generative Engine Optimization)
+- Technical SEO Checklists
+- Local SEO Playbooks
+- n8n Automation Workflows
+- Google Ads Strategies
+- AI Search Case Studies
+- SEO Prompt Libraries
+- AI Tracking and attributions
+- Free AI SEO Audit Tool
+
+---
+
+## 🛠️ Areas of Expertise
+
+- AI SEO
+- GEO (Generative Engine Optimization)
+- Technical SEO
+- Local SEO
+- Google Business Profile Optimization
+- Google Ads
+- GA4 & GTM
+- AI Automation
+- n8n
+- Search Console
+
+---
+
+## 📚 Upcoming Repositories under process:
+
+| Repository | Description |
+|------------|-------------|
+| AI SEO Checklist | Practical AI SEO implementation guide |
+| GEO Framework | Generative Engine Optimization framework |
+| Technical SEO Audit | Complete audit checklist |
+| Local SEO Playbook | Local business optimization |
+| n8n Workflows | SEO & marketing automations |
+| SEO Prompts | Prompt library for SEO professionals |
+
+---
+
+## 🌐 Connect
+
+🌍 Website  
+https://lalitondigital.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/lalitondigital/
+
+📧 Email  
+getintouch@lalitondigital.com
+
+---
+
+## 🎯 Mission
+
+Helping local small/big businesses become visible not only on Google, but also across the next generation of AI search platforms.
